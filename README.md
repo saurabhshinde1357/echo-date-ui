@@ -21,7 +21,7 @@ Crafted with care by Saurabh Shinde.
 |-----------------|------------------------------------|
 | Vite            | Fast dev server & bundler          |
 | React           | Frontend library                   |
-| TypeScript      | Typed JavaScript                   |
+| Script     |        js/typed js           |
 | Tailwind CSS    | Utility-first CSS framework        |
 | shadcn/ui       | Beautiful headless UI components   |
 
